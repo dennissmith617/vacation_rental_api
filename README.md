@@ -1,13 +1,13 @@
 Dennis Smith
 Vacation Home Rental API Program
 
-Summary:
+**Summary**:
 This Program serves as a prototype for a Vacation Home Rental API. It will allow customers to reserve homes of a given type at a desired date and time for a given number of days. Customers will be able to reserve a single home for multiple, non-overlapping time frames.
 
 Testing is included in this program to show the functionality of the API.
 
 
-Pre-program Installations/Downloads
+**Pre-program Installations/Downloads**
 
 1. Clone the `vacation_rental_api` repo.
 
@@ -25,7 +25,8 @@ Pre-program Installations/Downloads
 
 8. Install marshmallow by entering `pip install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
 
-Running the Program
+**Running the Program**
+
 1. Make sure that you have navigated to the folder containing the repo, and run the server by entering `./bootstrap.sh` in your terminal.
 
 2. Use an API Testing/Debugging Tool such as Insomnia or Postman to test the `get_rentals()` GET method or the `rent_home()` POST method. 
