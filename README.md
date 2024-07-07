@@ -8,6 +8,7 @@ Testing is included in this program to show the functionality of the API.
 
 
 Pre-program Installations/Downloads
+
 1. Clone the `vacation_rental_api` repo.
 
 2. Install Python3 by following the steps available at this link: https://www.python.org/downloads/
@@ -45,5 +46,3 @@ Running the Program
 
 
 **NOTE**: If you are using the POST request, make sure that you are entering an existing home_id (1-5) and using the proper date format (YYYY-MM-DD).
-
-3. For testing, open a new terminal window and navigate to the `tests` folder. Begin the testing process by entering the command `python test_index.py`
