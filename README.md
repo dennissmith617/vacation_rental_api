@@ -49,3 +49,11 @@ Testing is included in this program to show the functionality of the API.
 
 
 **NOTE**: If you are using the POST request, make sure that you are entering an existing home_id (1-5) and using the proper date format (YYYY-MM-DD).
+
+**Running the Tests**
+
+1. Open up to a new terminal window, keep API running
+
+2. Navigate to `tests`
+
+3. Run `python3 test_index.py`
