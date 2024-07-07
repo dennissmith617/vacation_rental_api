@@ -25,7 +25,9 @@ Testing is included in this program to show the functionality of the API.
 
 - To setup pipenv, you can run `pipenv --python VERSION`, where version can be found using `python3 --version` command
 
-8. Install marshmallow by entering `pip3 install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
+8. Install marshmallow by running `pip3 install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
+
+9. Install requests by running `pip3 install requests`
 
 **Running the Program**
 
