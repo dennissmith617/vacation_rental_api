@@ -23,6 +23,8 @@ Testing is included in this program to show the functionality of the API.
 
 7. Install Pipenv by entering `pip3 install pipenv` in your terminal. Pipenv will serve as a dependency manager which isolates projects in private environments. We will therefore be able to install packages per project by using this.
 
+- To setup pipenv, you can run `pipenv --python VERSION`, where version can be found using `python3 --version` command
+
 8. Install marshmallow by entering `pip3 install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
 
 **Running the Program**
