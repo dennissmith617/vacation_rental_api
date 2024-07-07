@@ -54,7 +54,7 @@ Testing is included in this program to show the functionality of the API.
 
 **Running the Tests**
 
-1. Open up to a new terminal window, keep API running
+1. Open up to a new terminal window, restart API to have clean data
 
 2. Navigate to `tests`
 
