@@ -13,17 +13,17 @@ Testing is included in this program to show the functionality of the API.
 
 2. Install Python3 by following the steps available at this link: https://www.python.org/downloads/
 
-3. You will need Python 3.7 or newer to properly run this program. Enter `python --version` in your terminal to confirm you are running a supported version. 
+3. You will need Python 3.7 or newer to properly run this program. Enter `python3 --version` in your terminal to confirm you are running a supported version. 
 
-4. Check that Pip is installed by entering `pip --version` in your terminal.
+4. Check that Pip is installed by entering `pip3 --version` in your terminal.
 
 5. If Pip is not installed, follow this link for the installation process: https://pip.pypa.io/en/stable/installation/
 
-6. If you do not have Flask installed, enter `pip install Flask` into your terminal.
+6. If you do not have Flask installed, enter `pip3 install Flask` into your terminal.
 
-7. Install Pipenv by entering `pip install pipenv` in your terminal. Pipenv will serve as a dependency manager which isolates projects in private environments. We will therefore be able to install packages per project by using this.
+7. Install Pipenv by entering `pip3 install pipenv` in your terminal. Pipenv will serve as a dependency manager which isolates projects in private environments. We will therefore be able to install packages per project by using this.
 
-8. Install marshmallow by entering `pip install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
+8. Install marshmallow by entering `pip3 install -U marshmallow`. This is a framework-agnostic library which will help us convert complex datatypes (i.e. objects) to and from Python datatypes.
 
 **Running the Program**
 
